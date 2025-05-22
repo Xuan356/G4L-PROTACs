@@ -12,3 +12,7 @@ Data processing codes for paper "Targeted Degradation of G-Quadruplex Binding Ce
 - bedtools == 2.31.0
 - SEACR == 1.3
 - deepTools == 3.5.5
+
+## Descriptions
+1. CnT_processing.sh is for data processing for CnT data
+2. TMT_analysis.R is for processing of the TMT-based proteomics data
